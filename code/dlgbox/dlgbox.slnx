@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dlgbox.vcxproj" Id="b65a4e14-1cd2-49bb-84e4-dbbd6de7d73f" />
+</Solution>
