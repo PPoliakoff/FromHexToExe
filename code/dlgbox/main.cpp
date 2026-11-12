@@ -2,5 +2,5 @@
 
 int main()
 {
-	MessageBoxA(NULL, "haha", "titre", 0);
+	MessageBoxA(NULL, "World!", "Hello", 0);
 }

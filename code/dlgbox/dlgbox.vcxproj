@@ -132,6 +132,7 @@
       <DisableLanguageExtensions>false</DisableLanguageExtensions>
       <AssemblerOutput>All</AssemblerOutput>
       <DebugInformationFormat>None</DebugInformationFormat>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -141,6 +142,9 @@
       <GenerateWindowsMetadata>false</GenerateWindowsMetadata>
       <EntryPointSymbol>main</EntryPointSymbol>
       <CLRUnmanagedCodeCheck>false</CLRUnmanagedCodeCheck>
+      <GenerateMapFile>true</GenerateMapFile>
+      <AssemblyDebug>false</AssemblyDebug>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
